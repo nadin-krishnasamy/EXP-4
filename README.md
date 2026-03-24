@@ -36,16 +36,14 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+<img width="990" height="1400" alt="image" src="https://github.com/user-attachments/assets/bfe20c58-4454-4585-bfae-aca753b4e50a" />
+<img width="990" height="1399" alt="image" src="https://github.com/user-attachments/assets/37fd9ee5-7940-42ed-96f1-530ac02cdc8c" />
 
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
 
 WAVEFORM:
+
+<img width="971" height="1391" alt="image" src="https://github.com/user-attachments/assets/6c718edf-e012-4f45-998c-e42f15861f76" />
+<img width="989" height="1072" alt="image" src="https://github.com/user-attachments/assets/14f53f7d-d3d4-4b68-b0d2-979660af79bf" />
 
 
 RESULT:
